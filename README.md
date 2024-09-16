@@ -1,3 +1,3 @@
 # Django-Trainee-at-Accuknox
-Assignment Solutions
+Assignment Solutions,
 All the solutions are added to views.py. 
